@@ -1,7 +1,6 @@
 # bwa_chatty
-
-A new Flutter project.
-
+ UI in figma to flutter app
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
