@@ -1,5 +1,7 @@
 # bwa_chatty
  UI in figma to flutter app
+
+to check desain click in here : https://pixel.buildwithangga.com/details/chatty
  
 ## Getting Started
 
